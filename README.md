@@ -120,7 +120,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/sherafat79"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sherafat79&custom_title=sherafat79%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/sherafat79"><img alt="mahyar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sherafat79&custom_title=mahyar's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
