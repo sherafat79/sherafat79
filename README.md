@@ -57,6 +57,8 @@
 
 <br/><br/>
 <hr/>
+
+<h2 align="center">📊 Weekly development breakdown  📊</h2>
 <!--START_SECTION:waka-->
 
 ```txt
