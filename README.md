@@ -61,7 +61,7 @@
 <h2 align="center">📊 Weekly development breakdown  📊</h2>
 <!--START_SECTION:waka-->
 
-```json
+```ruby
 From: 23 September 2023 - To: 29 October 2023
 
 Total Time: 147 hrs 26 mins
