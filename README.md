@@ -62,15 +62,15 @@
 <!--START_SECTION:waka-->
 
 ```ruby
-From: 23 September 2023 - To: 22 November 2023
+From: 23 September 2023 - To: 23 November 2023
 
-Total Time: 260 hrs
+Total Time: 265 hrs 34 mins
 
-TypeScript       229 hrs 47 mins ██████████████████████░░░   87.87 %
-JavaScript       12 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-JSON             5 hrs 35 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Bash             4 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-PHP              3 hrs 53 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+TypeScript       235 hrs 10 mins ██████████████████████░░░   88.06 %
+JavaScript       12 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+JSON             5 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Bash             4 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+PHP              3 hrs 53 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
