@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 
 ```ruby
-From: 23 September 2023 - To: 09 May 2024
+From: 23 September 2023 - To: 10 May 2024
 
 Total Time: 870 hrs 28 mins
 
