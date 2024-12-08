@@ -62,15 +62,15 @@
 <!--START_SECTION:waka-->
 
 ```ruby
-From: 23 September 2023 - To: 05 December 2024
+From: 23 September 2023 - To: 06 December 2024
 
-Total Time: 1,252 hrs 55 mins
+Total Time: 1,257 hrs 39 mins
 
-TypeScript                 1,069 hrs 50 mins█████████████████████░░░░   84.54 %
-C#                         72 hrs 37 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-JSON                       32 hrs 50 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-JavaScript                 29 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Bash                       15 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+TypeScript                 1,074 hrs 27 mins█████████████████████░░░░   84.57 %
+C#                         72 hrs 37 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+JSON                       32 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+JavaScript                 29 hrs 49 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Bash                       15 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
