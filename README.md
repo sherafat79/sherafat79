@@ -62,12 +62,12 @@
 <!--START_SECTION:waka-->
 
 ```ruby
-From: 23 September 2023 - To: 30 November 2025
+From: 23 September 2023 - To: 01 December 2025
 
-Total Time: 1,772 hrs 1 min
+Total Time: 1,772 hrs 51 mins
 
-TypeScript                 1,365 hrs 34 mins███████████████████░░░░░░   76.41 %
-Python                     117 hrs 49 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+TypeScript                 1,365 hrs 34 mins███████████████████░░░░░░   76.37 %
+Python                     118 hrs 17 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
 C#                         91 hrs 19 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
 JSON                       49 hrs 38 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 JavaScript                 37 hrs 28 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
